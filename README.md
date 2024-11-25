@@ -1,2 +1,3 @@
-# Assignment-1
-Assignment 1 - Inleiding Informatica
+# Assignments Inleiding Informatica
+
+Hier zijn de gevraagde assignments voor Inleiding Informatica van Nyuk-Shi Purperhart
